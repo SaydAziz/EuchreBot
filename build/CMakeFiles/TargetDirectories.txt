@@ -1,3 +1,0 @@
-/home/aza/Documents/CPP/EuchreProject/build/CMakeFiles/EuchreProject.dir
-/home/aza/Documents/CPP/EuchreProject/build/CMakeFiles/edit_cache.dir
-/home/aza/Documents/CPP/EuchreProject/build/CMakeFiles/rebuild_cache.dir
